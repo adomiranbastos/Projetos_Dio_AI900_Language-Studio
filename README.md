@@ -1,4 +1,4 @@
-# Projetos_Dio_AI900_Language-Studio
+# Projetos_Dio_AI900_Language-Studio Explore Speech Studio
 Azure AI900- Explore Speech Studio e  Analyze text with Language Studio
 
 ## 1-Criação dos recursos no Azure
